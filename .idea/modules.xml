@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Work3.iml" filepath="$PROJECT_DIR$/Work3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daohang/daohang.iml" filepath="$PROJECT_DIR$/daohang/daohang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogbuilderdemo/dialogbuilderdemo.iml" filepath="$PROJECT_DIR$/dialogbuilderdemo/dialogbuilderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_glide/lesson19_glide.iml" filepath="$PROJECT_DIR$/lesson19_glide/lesson19_glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_okhttp/lesson19_okhttp.iml" filepath="$PROJECT_DIR$/lesson19_okhttp/lesson19_okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_okhttpdemo/lesson19_okhttpdemo.iml" filepath="$PROJECT_DIR$/lesson19_okhttpdemo/lesson19_okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_volley/lesson19_volley.iml" filepath="$PROJECT_DIR$/lesson19_volley/lesson19_volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_webtest/lesson19_webtest.iml" filepath="$PROJECT_DIR$/lesson19_webtest/lesson19_webtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_xutils_db/lesson19_xutils_db.iml" filepath="$PROJECT_DIR$/lesson19_xutils_db/lesson19_xutils_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_xutilsdemo/lesson19_xutilsdemo.iml" filepath="$PROJECT_DIR$/lesson19_xutilsdemo/lesson19_xutilsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_xutilsdemo2/lesson19_xutilsdemo2.iml" filepath="$PROJECT_DIR$/lesson19_xutilsdemo2/lesson19_xutilsdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson20_baidumap/lesson20_baidumap.iml" filepath="$PROJECT_DIR$/lesson20_baidumap/lesson20_baidumap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson20_baidumap2/lesson20_baidumap2.iml" filepath="$PROJECT_DIR$/lesson20_baidumap2/lesson20_baidumap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson20_baidumap_location/lesson20_baidumap_location.iml" filepath="$PROJECT_DIR$/lesson20_baidumap_location/lesson20_baidumap_location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson20_baidumap_navigation/lesson20_baidumap_navigation.iml" filepath="$PROJECT_DIR$/lesson20_baidumap_navigation/lesson20_baidumap_navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson20_baidumap_poisearch/lesson20_baidumap_poisearch.iml" filepath="$PROJECT_DIR$/lesson20_baidumap_poisearch/lesson20_baidumap_poisearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson21_bgaqrcode/lesson21_bgaqrcode.iml" filepath="$PROJECT_DIR$/lesson21_bgaqrcode/lesson21_bgaqrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson21_sensormanager/lesson21_sensormanager.iml" filepath="$PROJECT_DIR$/lesson21_sensormanager/lesson21_sensormanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson21_zxing/lesson21_zxing.iml" filepath="$PROJECT_DIR$/lesson21_zxing/lesson21_zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylib/mylib.iml" filepath="$PROJECT_DIR$/mylib/mylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threeleveltest/threeleveltest.iml" filepath="$PROJECT_DIR$/threeleveltest/threeleveltest.iml" />
+    </modules>
+  </component>
+</project>

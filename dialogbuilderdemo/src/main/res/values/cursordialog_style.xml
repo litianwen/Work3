@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CursorNotTitle">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="CursorDialogThemeNotFloating">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="CursorDialogThemeNotFloatingNotTitle" parent="CursorNotTitle">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="CursorDialogThemeFull" parent="CursorDialogThemeNotFloating">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="CursorDialogThemeFullNotTitle" parent="CursorDialogThemeNotFloatingNotTitle">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/daohang" />
+            <option value="$PROJECT_DIR$/dialogbuilderdemo" />
+            <option value="$PROJECT_DIR$/lesson19_glide" />
+            <option value="$PROJECT_DIR$/lesson19_okhttp" />
+            <option value="$PROJECT_DIR$/lesson19_okhttpdemo" />
+            <option value="$PROJECT_DIR$/lesson19_volley" />
+            <option value="$PROJECT_DIR$/lesson19_webtest" />
+            <option value="$PROJECT_DIR$/lesson19_xutils_db" />
+            <option value="$PROJECT_DIR$/lesson19_xutilsdemo" />
+            <option value="$PROJECT_DIR$/lesson19_xutilsdemo2" />
+            <option value="$PROJECT_DIR$/lesson20_baidumap" />
+            <option value="$PROJECT_DIR$/lesson20_baidumap2" />
+            <option value="$PROJECT_DIR$/lesson20_baidumap_location" />
+            <option value="$PROJECT_DIR$/lesson20_baidumap_navigation" />
+            <option value="$PROJECT_DIR$/lesson20_baidumap_poisearch" />
+            <option value="$PROJECT_DIR$/lesson21_bgaqrcode" />
+            <option value="$PROJECT_DIR$/lesson21_sensormanager" />
+            <option value="$PROJECT_DIR$/lesson21_zxing" />
+            <option value="$PROJECT_DIR$/mvc" />
+            <option value="$PROJECT_DIR$/mylib" />
+            <option value="$PROJECT_DIR$/pulltorefresh" />
+            <option value="$PROJECT_DIR$/threeleveltest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
